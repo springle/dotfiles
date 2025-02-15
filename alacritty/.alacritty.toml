@@ -1,5 +1,6 @@
 [window]
 startup_mode = "Fullscreen"
+option_as_alt = "OnlyLeft"
 
 [font]
 normal = { family = "Comic Code Ligatures" }
