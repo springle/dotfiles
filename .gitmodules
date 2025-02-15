@@ -1,0 +1,3 @@
+[submodule "vim/pack/sam/start/ale"]
+	path = vim/pack/sam/start/ale
+	url = https://github.com/dense-analysis/ale.git
