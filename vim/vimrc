@@ -10,3 +10,7 @@ let g:ale_fix_on_save = 1
 let g:ale_python_auto_uv = 1
 let g:ale_linters = {"python": ["ruff", "pyright", "pylint"]}
 let g:ale_fixers = {"python": ["ruff_format", "isort"]}
+
+" NERDTree
+nnoremap <leader>nt :NERDTreeToggle<CR>
+nnoremap <leader>nf :NERDTreeFind<CR>
